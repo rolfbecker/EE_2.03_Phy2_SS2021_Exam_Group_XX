@@ -8,17 +8,17 @@
 1. **Strictly follow the naming conventions for your HSRW gitlab group repo!** At due date the supervisors will search for the repo names and download them. If you choose another name we will not be able to find the repo: it is as if you had not submitted your assignment.
 1. Describe shortly what you are doing! Just providing code is not enough! **Use markdown cells and appropriate formatting** to add your descriptive text.  
 
-## Task 01: 
+## Task 01: Stirling Engine mounted to Solar Dish
 
 [Task01](Task01/README.md) (to be done)
 
-## Task 02: 
+## Task 02: U-Value of a Tiny House
 
 [Task02](Task02/README.md) (to be done)
 
-## Task 03: 
+## Task 03: Produce a short video explaining your work.
 
-[Task03](Task03/README.md) (ready)
+[Task03](Task03/README.md) (to be done)
 
 
 
