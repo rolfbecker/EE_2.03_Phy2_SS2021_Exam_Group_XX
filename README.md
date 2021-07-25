@@ -8,7 +8,7 @@
 1. **Strictly follow the naming conventions for your HSRW gitlab group repo!** At due date the supervisors will search for the repo names and download them. If you choose another name we will not be able to find the repo: it is as if you had not submitted your assignment.
 1. Describe shortly what you are doing! Just providing code is not enough! **Use markdown cells and appropriate formatting** to add your descriptive text.  
 
-## Task 01: Stirling Engine Mounted to Solar Dish
+## Task 01: Solar Dish with Stirling Engine
 
 [Task01](Task01/README.md) (to be done)
 
