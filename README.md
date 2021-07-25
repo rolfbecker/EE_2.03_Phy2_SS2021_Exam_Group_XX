@@ -10,7 +10,7 @@
 
 ## Task 01: Solar Dish with Stirling Engine
 
-[Task01](Task01/README.md) (to be done)
+[Task01](Task01/README.md) (ready)
 
 ## Task 02: U-Value of a Tiny House
 
@@ -18,7 +18,7 @@
 
 ## Task 03: Produce a short video explaining your work.
 
-[Task03](Task03/README.md) (to be done)
+[Task03](Task03/README.md) (ready)
 
 
 
